@@ -1,1 +1,2 @@
 This is an example file for Git practice - dev2
+This is an example file for Git practice practice
